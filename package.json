@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/three": "0.103.2",
+    "jsm": "^0.0.1",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "three": "0.106.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
